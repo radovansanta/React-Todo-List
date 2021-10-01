@@ -10,3 +10,4 @@ Features:
 6. Once the ,,Remove” is clicked the specific Todo is removed
 7. User can set a date and time during creating a Todo. If a date and time is selected Todo is listed under the ,,Upcoming” headline
 
+<img width="464" alt="Snímka obrazovky 2021-10-01 o 12 56 34" src="https://user-images.githubusercontent.com/84182964/135611328-01013054-91f3-4c8e-a7a0-bd4a796602d3.png">
