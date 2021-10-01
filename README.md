@@ -1,7 +1,7 @@
 # React-Todo-List
 Todo List created using React library
 
-Features:
+# Features:
 1. User can add a Todo using the text field and pressing ,,Add” button. However, the user is not able to add empty Todo.
 2. The text field is cleared once the Todo is created
 3. Created Todo is shown up at the top of the list
